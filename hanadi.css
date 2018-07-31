@@ -59,11 +59,6 @@ h2, strong, h3{
   margin: 30px;
   margin-top: 0;
 }
-
-.features {
-
-}
-
 .feature {
   /*background-color: yellow;*/
   width: 33%; display: inline-block;
@@ -107,7 +102,6 @@ h2, strong, h3{
 
 .form-container h2{
   text-align: center; padding-bottom: 20px;
-  /*border-bottom: 1px solid #ccc; margin-bottom: 20px;*/
 }
 
 .form-input{
@@ -177,9 +171,7 @@ h2, strong, h3{
   background-size: 24px 24px;
 }
 
-.form-input input[type="date"]{
-  /*width: 100%;*/
-}
+
 
 .error{
   background-color: #ffeb3b;
@@ -189,7 +181,7 @@ h2, strong, h3{
   margin-top: 10px;
   margin-right: -20px;
   margin-left: -20px;
-  padding: 20px; /*color: #fff;*/
+  padding: 20px;
   background-color: #f3f3f3;
 }
 
@@ -211,9 +203,7 @@ h2, strong, h3{
   border-radius: 6px; margin-left: 6px;
 }
 
-.applicant{
-  /*margin-bottom: 10px;*/
-}
+
 
 .applicant iframe{
   width: 100%;
@@ -235,7 +225,6 @@ h2, strong, h3{
 
 .agenda-section{
   font-family: 'Dubai-Bold'; color: #ccc;
-  /*text-align: center;*/
 }
 
 .agenda table td:first-child{
@@ -246,13 +235,9 @@ h2, strong, h3{
   text-align: right; font-family: 'Dubai-Bold';
 }
 
-/*.inline-form{
-  display: inline-block;
-}*/
-
 .must{
   background-color: #ffeb3b; padding: 20px;
-  margin-bottom: 20px; /*color: #fff;*/
+  margin-bottom: 20px;
 }
 
 .preview-container .subject{
